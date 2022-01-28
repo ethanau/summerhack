@@ -14,7 +14,13 @@ $ pip install requests
 ## User Guide
 After installation, run **$ python main.py** <br>
 The UI of the project is as below.<br>
-<img src="/images/UI.png" width="600">
+- Click **start** button to start studying <br>
+- Click **thumb** button if you have mastered the word, then this word will not appear again until you reset <br>
+- Click **cross** button if you are not familiar with the word, than this word will appear again later for your review <br>
+- Click **save** button if you are ready to finish the study and the software will save your mastered words and unmastered words to the database, so you can continue learning by process next time <br>
+- Click **reset** button if you want to start over with the entire word database, or if you have updated the word database <br>
+<img src="/images/UI.png" width="600"><br>
+<img src="/images/UI2.png" width="600"><br>
 
 ## Futher prospects
 Due to the short development time, this project is currently only running on personal computers and the program functions are simple, later more functions will be added according to user needs. Moreover, a web application will also be developed based on user demand and deployed on the cloud platform, and also a mobile application.
