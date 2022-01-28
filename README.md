@@ -10,9 +10,15 @@ The UI of the project is as below.<br>
 
 <img src="/images/UI.png" width="600">
 
-## Prospects
+## Futher prospects
+Due to the short development time, this project is currently only running on personal computers and the program functions are simple, later more functions will be added according to user needs. Moreover, a web application will also be developed based on user demand and deployed on the cloud platform, and also a mobile application.
 
 ## Technical challenges
+**User interface design** 
+As an it engineer I do better on back-end development and lack of front-end design experience, so it is challenging for me to design a UI that satisfies the users, I browsed a lot of UI interfaces of other projects during the development process, and let many of my friends put forward a lot of valuable opinions when designing the first draft of UI.
+
+**Word translation API**
+This project supports custom word database, but the translation of words requires a suitable and free API, so a lot of time was spent on finding the appropriate API.
 
 ## Python Packages
 - tkinter <br>
